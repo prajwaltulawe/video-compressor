@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+dist/
+build/
+
+# PyInstaller
+*.spec
+
+# VS Code
+.vscode/
+
+# Editor backups
+*~
+
+# Local output / build artifacts
+output/
+assets/ffmpeg/

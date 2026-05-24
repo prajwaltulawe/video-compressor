@@ -1,0 +1,4 @@
+PySide6
+tqdm
+rich
+psutil
