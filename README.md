@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 ## Usage for non-developers
 
-Run the GUI: dist\gui.exe
+Download and Run the GUI file : dist\gui.exe
 
 
 ## Usage for developers
@@ -38,6 +38,7 @@ pyinstaller --onefile --windowed --add-data "assets;assets" gui.py
 - `assets/` - bundled ffmpeg and resources
 - `output/` - generated output files
 
-# Video Compressor
+## Note
 This is just an another vide coded app. The libraries installed looked verified but do not blind trust!
-It worked on my pc, 
+
+It worked on my pc! 
