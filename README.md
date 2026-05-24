@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 ## Usage for non-developers
 
-Download and Run the GUI file : dist\gui.exe
+Download and Run the GUI file : https://www.mediafire.com/file/msee89pi8q02l2p/gui.exe/file
 
 
 ## Usage for developers
@@ -31,6 +31,7 @@ Build a one-file executable:
 ```
 pyinstaller --onefile --windowed --add-data "assets;assets" gui.py
 ```
+a gui file will be generated in dist/
 
 ## Project Layout
 
